@@ -1,12 +1,11 @@
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Locale;
 import java.util.Scanner;
 
 class Simulation {
     public static void main(String[] args) {
 
-        System.out.printf("press enter to run program");
+        System.out.println("press enter to run program");
         String name = "the Sun";
         double sun_radius = 696340;
         double sun_mass = 1.989e30;
